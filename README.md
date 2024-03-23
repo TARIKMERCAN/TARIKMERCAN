@@ -7,58 +7,6 @@
 ![EX0N](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/831ad61b-cb02-476c-a5da-45fa0f12f94b)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![snake gif](https://github.com/TARIKMERCAN/TARIKMERCAN/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
