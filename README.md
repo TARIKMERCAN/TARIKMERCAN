@@ -5,7 +5,7 @@
 
 
 
-https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/c12699d9-367c-4db8-b1f0-1114e20aa444
+
 
 
 
