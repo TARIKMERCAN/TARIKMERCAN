@@ -36,3 +36,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TARIKMERCAN&theme=solarized" height="180em" />
 
 </div>
+
+
+
+![snake gif](https://github.com/TARIKMERCAN/TARIKMERCAN/blob/output/github-contribution-grid-snake.gif)
