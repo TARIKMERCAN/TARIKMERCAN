@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikmercan&label=Profile%20views&color=0061ff&style=plastic" alt="tarikmercan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikmercan" alt="tarikmercan" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
