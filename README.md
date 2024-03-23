@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm TARIK MERCAN</h1>
 <h3 align="center">Currently studying Computer Science at PJATK</h3>
-![](giphy.gif)
+![giphy](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/a96b31d6-9cb4-4147-9129-e8f0583a062b)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikmercan&label=Profile%20views&color=0061ff&style=plastic" alt="tarikmercan" /> </p>
 
