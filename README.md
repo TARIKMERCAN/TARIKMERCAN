@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TARIKMERCAN&label=Profile%20views&color=0e75b6&style=flat" alt="TARIKMERCAN" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/vW56buGDR1nxBhBPbVfIwiA9ykI=/430x0/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/7AKFGNWH6APQNAZRWNIXTX2LTU.gif)">
+![Description of the image](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/vW56buGDR1nxBhBPbVfIwiA9ykI=/430x0/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/7AKFGNWH6APQNAZRWNIXTX2LTU.gif)
+
 
 
 
