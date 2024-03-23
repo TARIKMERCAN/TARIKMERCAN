@@ -1,6 +1,6 @@
 <h1 align="center">Cheers! 👋, I'm currently studying Computer Science at PJATK </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TARIKMERCAN&label=Profile%20views&color=0e75b6&style=flat" alt="TARIKMERCAN" /> </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://raw.githubusercontent.com/TARIKMERCAN/TARIKMERCAN/main/assets/139633036/778eded2-dd5a-4303-9438-30a98c2262e7" alt="REIE">
 </p>
@@ -9,7 +9,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div><h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
