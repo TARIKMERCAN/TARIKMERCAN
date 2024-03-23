@@ -5,7 +5,42 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![EX0N](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/831ad61b-cb02-476c-a5da-45fa0f12f94b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
