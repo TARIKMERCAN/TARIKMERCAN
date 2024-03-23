@@ -1,9 +1,10 @@
 <h1 align="center">Cheers! 👋, I'm currently studying Computer Science at PJATK </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TARIKMERCAN&label=Profile%20views&color=0e75b6&style=flat" alt="TARIKMERCAN" /> </p>
 
-<div style="text-align:center">
-    ![REIE](https://raw.githubusercontent.com/TARIKMERCAN/TARIKMERCAN/main/assets/139633036/778eded2-dd5a-4303-9438-30a98c2262e7)
-</div>
+|       |
+|:-----:|
+| ![REIE](https://raw.githubusercontent.com/TARIKMERCAN/TARIKMERCAN/main/assets/139633036/778eded2-dd5a-4303-9438-30a98c2262e7) |
+
 
 
 
