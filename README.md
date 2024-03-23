@@ -7,7 +7,7 @@
 
 
 
-![f40acfd373496c3cbdeeb8ec0ac9ca8f](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/0a1266b4-6400-429d-9d10-45331e10a78d)
+
 
 
 
