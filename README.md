@@ -26,8 +26,5 @@
 <div align="center">
 <a href="https://github.com/TARIKMERCAN">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TARIKMERCAN&theme=solarized" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TARIKMERCAN&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TARIKMERCAN&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TARIKMERCAN&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TARIKMERCAN&theme=2077" height="180em" />
+
 </div>
