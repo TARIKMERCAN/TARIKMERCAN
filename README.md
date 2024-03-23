@@ -3,7 +3,7 @@
 
 ![giphy](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/254d7b38-0a8c-491b-8fce-d34961f47376)
 
-
+<p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikmercan&label=Profile%20views&color=0061ff&style=plastic" alt="tarikmercan" /> </p>
 
 
