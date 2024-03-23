@@ -5,7 +5,7 @@
 
 
 
-</div><h3 align="center">![giphy](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/0b79a603-bf0c-49cf-b589-fbe80bea6eab)</h3>
+![giphy](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/0b79a603-bf0c-49cf-b589-fbe80bea6eab)
 
 
 
