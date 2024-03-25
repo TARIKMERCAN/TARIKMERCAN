@@ -3,9 +3,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-![EX0N](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/831ad61b-cb02-476c-a5da-45fa0f12f94b)
-![giphy](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/6c2f32a5-5558-49ae-9361-86b55e180ab2)
 ![1512581810_82cbd63810830693cf9556e7cd44be4e](https://github.com/TARIKMERCAN/TARIKMERCAN/assets/139633036/03ff2a4e-29b0-4d2b-a977-d9ffc3ad1f67)
 
 
