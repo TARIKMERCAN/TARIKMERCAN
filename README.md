@@ -27,7 +27,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3
 <div align="center">
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TARIKMERCAN&theme=sunset-gradient" alt="TARIKMERCAN" /></p>
+
 </div>
 <div align="center">
 <a href="https://github.com/TARIKMERCAN">
